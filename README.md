@@ -25,3 +25,9 @@
  
 ## Video Explanation
 -  Link: https://drive.google.com/file/d/1QT1wqdTCrIIdKXNjIi3jp_5g_-E0BG42/view?usp=sharing
+## Api endpoint 
+Postman:
+Method: POS
+URL: http://localhost:8080/api/sync/trigger
+Headers: none
+Body: none
